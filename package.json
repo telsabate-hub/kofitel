@@ -1,0 +1,22 @@
+{
+  "name": "kofitel",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000k\u0000o\u0000f\u0000i\u0000t\u0000e\u0000l\u0000\r\u0000 \u0000",
+  "main": "server.js",
+  "scripts": {
+    "start": "node ./backend/server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/telsabate-hub/kofitel.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/telsabate-hub/kofitel/issues"
+  },
+  "homepage": "https://github.com/telsabate-hub/kofitel#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
